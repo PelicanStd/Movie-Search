@@ -13,7 +13,7 @@ export default function Home() {
         <TheHeader />
         <div className='hero rounded-[50px] mt-[10px] flex justfy-left items-start'>
           <div className='hero-content flex-col lg:flex-row '>
-            <img src='~/assets/img/movie.jpg' className='mask mask-hexagon max-w-sm rounded-[50px] w-[600px] h-[400px] shadow-2xl' />
+            <img src='https://github.com/PelicanStd/Movie-Search/blob/master/src/assets/img/movie.jpg?raw=true' className='mask mask-hexagon max-w-sm rounded-[50px] w-[600px] h-[400px] shadow-2xl' />
             <div>
               <p className={"font-sans font-bold text-[60px] text-amber-400 "}>OMDB API</p>
               <p className={"font-sans font-bold text-[40px] text-400 italic"}>THE OPEN MOVIE DATABASE</p>

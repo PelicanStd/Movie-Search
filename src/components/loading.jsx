@@ -1,6 +1,6 @@
 
 function Loading() {
-  const url = 'src/assets/img/Spinner-1s-200px(1).gif'
+  const url = 'https://github.com/PelicanStd/Movie-Search/blob/master/src/assets/img/Spinner-1s-200px(1).gif?raw=true'
 
     return (
       <div className={'w-full h-auto z-30 flex justify-center'}>
